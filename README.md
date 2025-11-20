@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm [Yaqouta alsughier]
 
-<!--
-**ruby77x/ruby77x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 Student majoring in **Robotics and Artificial Intelligence**
+- 🌱 Currently learning: [Tools or languages like Python, C++, GitHub, Machine Learning]
+- 🎯 Goal: Build innovative projects in AI and robotics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Programming Languages:** Python | C++ | JavaScript
+- **Tools:** Git | GitHub | VS Code
+- **Domains:** Data Analysis | Web Development | Artificial Intelligence
+
+---
+
+## 📂 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| Project One | A simple machine learning app | Python, Scikit-learn |
+| Project Two | Personal portfolio website | HTML, CSS, JS |
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: [ruby200731@gmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/yaqouta-alsughier]
+- 🌍 Personal Website: [Your GitHub Pages link]
+
+---
+
+⭐ Feel free to follow me for more projects!
