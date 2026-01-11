@@ -25,7 +25,7 @@
 ## 🌐 Connect With Me
 - 📧 Email: [ruby200731@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/yaqouta-alsughier]
-- 🌍 Personal Website: [Your GitHub Pages link]
+- 🌍 Personal Website: [https://github.com/ruby77x]
 
 ---
 
