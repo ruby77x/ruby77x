@@ -9,8 +9,8 @@
 
 ## 🛠 Skills
 - **Programming Languages:** Python | C++ | JavaScript
-- **Tools:** Git | GitHub | VS Code
-- **Domains:** Data Analysis | Web Development | Artificial Intelligence
+- **Tools:** Git | GitHub | VS Code | AI chats
+- **Domains:** Data Science | Web Development | Artificial Intelligence
 
 ---
 
