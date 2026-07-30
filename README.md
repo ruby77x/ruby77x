@@ -8,25 +8,16 @@
 ---
 
 ## 🛠 Skills
-- **Programming Languages:** Python | C++ | JavaScript
+- **Programming Languages:** Python | C++ 
 - **Tools:** Git | GitHub | VS Code | AI chats
 - **Domains:** Data Science | Web Development | Artificial Intelligence
 
 ---
 
-## 📂 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| Project One | A simple machine learning app | Python, Scikit-learn |
-| Project Two | Personal portfolio website | HTML, CSS, JS |
-
----
 
 ## 🌐 Connect With Me
 - 📧 Email: [ruby200731@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/yaqouta-alsughier]
-- 🌍 Personal Website: [https://github.com/ruby77x]
+- 🌍 Personal Website: [https://github.com/yaqouta7]
 
----
 
-⭐ Feel free to follow me for more projects!
